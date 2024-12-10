@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "mysql",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "e54393c4-be4e-48a7-8a9b-261fb4ccc10d",
+    "task_info": "Upload Sources [0%] - 468 files",
+    "task_output": "e54393c4-be4e-48a7-8a9b-261fb4ccc10d.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2024-12-10-21-46-23",
+    "task_ts_start": "2024-12-10-21-46-21"
+}
